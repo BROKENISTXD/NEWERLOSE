@@ -1,4 +1,4 @@
-# 🚀 **NEWERLOSE** - A Modern Replica of NeverLose with Enhanced Features! 🎯
+# 🚀 **NEWERLOSE** - A Tkinter Replica of NEVERLOOSE🎯
 
 ---
 
